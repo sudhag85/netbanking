@@ -1,0 +1,27 @@
+2020-04-11 02:03:07 INFO  BaseClass:30 - Launching chrome browser
+2020-04-11 02:03:20 INFO  BaseClass:33 - Navigating to URL
+2020-04-11 02:04:10 INFO  BaseClass:18 - Creating object for LoginPageObjects class
+2020-04-11 02:05:29 INFO  BaseClass:30 - Launching chrome browser
+2020-04-11 02:05:35 INFO  BaseClass:33 - Navigating to URL
+2020-04-11 02:05:42 INFO  BaseClass:17 - Creating object for LoginPageObjects class
+2020-04-11 02:05:42 INFO  BaseClass:20 - Entering username
+2020-04-11 02:05:42 INFO  BaseClass:22 - Entering Password
+2020-04-11 02:05:43 INFO  BaseClass:24 - Clicking Login
+2020-04-11 02:05:45 INFO  BaseClass:42 - Closing the browser
+2020-04-11 02:09:23 INFO  BaseClass:30 - Launching chrome browser
+2020-04-11 02:09:28 INFO  BaseClass:33 - Navigating to URL
+2020-04-11 02:09:35 INFO  BaseClass:16 - Creating object for LoginPageObjects class
+2020-04-11 02:09:35 INFO  BaseClass:19 - Entering username
+2020-04-11 02:09:35 INFO  BaseClass:42 - Closing the browser
+2020-04-11 02:09:52 INFO  BaseClass:30 - Launching chrome browser
+2020-04-11 02:09:57 INFO  BaseClass:33 - Navigating to URL
+2020-04-11 02:10:05 INFO  BaseClass:16 - Creating object for LoginPageObjects class
+2020-04-11 02:10:05 INFO  BaseClass:19 - Entering username
+2020-04-11 02:10:05 INFO  BaseClass:42 - Closing the browser
+2020-04-11 02:13:14 INFO  BaseClass:30 - Launching chrome browser
+2020-04-11 02:13:19 INFO  BaseClass:33 - Navigating to URL
+2020-04-11 02:13:28 INFO  BaseClass:16 - Creating object for LoginPageObjects class
+2020-04-11 02:13:28 INFO  BaseClass:19 - Entering username
+2020-04-11 02:13:28 INFO  BaseClass:21 - Entering Password
+2020-04-11 02:13:28 INFO  BaseClass:23 - Clicking Login
+2020-04-11 02:13:29 INFO  BaseClass:42 - Closing the browser
