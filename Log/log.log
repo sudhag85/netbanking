@@ -25,3 +25,10 @@
 2020-04-11 02:13:28 INFO  BaseClass:21 - Entering Password
 2020-04-11 02:13:28 INFO  BaseClass:23 - Clicking Login
 2020-04-11 02:13:29 INFO  BaseClass:42 - Closing the browser
+2020-04-11 03:01:25 INFO  BaseClass:30 - Launching chrome browser
+2020-04-11 03:01:31 INFO  BaseClass:33 - Navigating to URL
+2020-04-11 03:01:39 INFO  BaseClass:16 - Creating object for LoginPageObjects class
+2020-04-11 03:01:39 INFO  BaseClass:19 - Entering username
+2020-04-11 03:01:39 INFO  BaseClass:21 - Entering Password
+2020-04-11 03:01:40 INFO  BaseClass:23 - Clicking Login
+2020-04-11 03:01:41 INFO  BaseClass:42 - Closing the browser
